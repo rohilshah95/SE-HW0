@@ -1,2 +1,2 @@
 #### HW0
-Git Tutorial:  ![img](https://preview.ibb.co/jFA3Z5/Screenshot_11.png)
+Git Tutorial:  ![img](https://github.ncsu.edu/rshah8/HW0/raw/master/git%20tutorial.png)

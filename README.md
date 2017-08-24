@@ -11,3 +11,6 @@ Code (`Hook Script`):
     start www.github.ncsu.edu/rshah8/HW0
 
 Git Tutorial:  ![img](https://github.ncsu.edu/rshah8/HW0/raw/master/git%20tutorial.png)
+
+Slack Profile: ![img](https://github.ncsu.edu/rshah8/HW0/raw/master/Screenshot%20(12).png)
+Moodle Profile: ![img](https://github.ncsu.edu/rshah8/HW0/raw/master/Screenshot%20(13).png)
